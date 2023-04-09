@@ -16,6 +16,7 @@ limit 1
 
 
 Answer:
+
 ![AQ1](pictures/AQ1.PNG)
 
 
@@ -38,6 +39,7 @@ from (select country, city,visitid, count(productsku) as nb_product
 ```
 
 Answer:
+
 ![AQ1](pictures/AQ2.PNG)
 
 
@@ -57,6 +59,7 @@ order by country, city, v2productcategory
 
 
 Answer:
+
 ![AQ1](pictures/AQ3.PNG)
 
 
@@ -78,6 +81,7 @@ order by country,city,total_quantity_ordered desc
 
 
 Answer:
+
 ![AQ1](pictures/AQ4.PNG)
 
 
@@ -98,6 +102,7 @@ order by country,city,total_productrevenue desc
 
 
 Answer:
+
 ![AQ5](pictures/AQ4.PNG)
 
 

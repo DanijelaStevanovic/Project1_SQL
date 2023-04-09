@@ -10,10 +10,11 @@ where country != '(not set)' and city != '(not set)'
 ```
 
 Answer: 
+
 ![AQ1](pictures/AQ2_1.PNG)
 
 
-## Question 2: What is the product with the most transactions
+## Question 2: What is the product with the most transactions?
 
 SQL Queries:
 ```SQL
@@ -25,10 +26,11 @@ limit 1
 ```
 
 Answer:
+
 ![AQ1](pictures/AQ2_2.PNG)
 
 
-## Question 3: Find the total number of unique visitors (`fullVisitorID`)
+## Question 3: Find the total number of unique visitors (`fullVisitorID`)?
 
 SQL Queries:
 ```SQL
